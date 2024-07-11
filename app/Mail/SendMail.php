@@ -25,7 +25,7 @@ class SendMail extends Mailable
 
     public function build()
     {
-        return $this->subject('Request a Service Legalworks')
+        return $this->subject('Appointment Request')
             ->view('emails.quotationMail');
     }
 }
