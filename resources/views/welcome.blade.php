@@ -21,7 +21,7 @@
 
             <div class="max-w-7xl mx-auto p-6 lg:p-8">
                 <div class="flex justify-center">
-                   <img src="https://rental360.blr1.digitaloceanspaces.com/afghanwasllogistics/afghanwasllogistics.png">
+                   <img src="https://dhsf9xmf10p0r.cloudfront.net/live/vehicles/LargeImages/1720688635-Logo-TP.png">
                 </div>
 
             </div>

@@ -954,7 +954,7 @@
                                                         <tr>
                                                             <td class="esd-block-image es-p40t es-p20b" style="font-size: 0px;padding-top: 15px"
                                                                 align="center"><a target="_blank" href="#!"><img draggable="false"
-                                                                                                                 src="https://rental360.blr1.digitaloceanspaces.com/afghanwasllogistics/afghanwasllogistics.png" alt style="display: block;"
+                                                                                                                 src="https://dhsf9xmf10p0r.cloudfront.net/demo/vehicles/LargeImages/1720688858-Logo-TP (1).png" alt style="display: block;"
                                                                                                                  height="60"></a></td>
                                                         <tr>
                                                             <td class="es-p40r es-p40l" align="center">
@@ -1061,7 +1061,7 @@
                                                 <td class="esd-block-text" align="left">
                                                     <p
                                                             style="padding-left: 38px;font-size: 18px; font-family: merriweather sans, helvetica neue, helvetica, arial, sans-serif; color: #535353;">
-                                                        Best regards,<br>The afghan wasl logistics team<br></p>
+                                                        Best regards,<br>The americanattics.co team<br></p>
                                                 </td>
                                             </tr>
                                             </tbody>
@@ -1107,10 +1107,10 @@
                                             <tbody>
                                             <tr>
                                                 <td class="esd-block-text es-m-txt-c es-p15t es-p10b" align="center"><a
-                                                            class="esd-anchor" name="mailto:info@propertyrevive.ae"></a>
+                                                            class="esd-anchor" name="mailto:info@americanattics.co"></a>
                                                     <p style="line-height: 150%; color: #535353;">Have any questions? | <span
-                                                                style="color:#1f65b0;">info@afghanwasllogistics.com</span><br></p>
-                                                    <p style="line-height: 150%; color: #535353;">© <?php echo date('Y'); ?> Afghan Wasl Logistics. All rights
+                                                                style="color:#1f65b0;">info@americanattics.co</span><br></p>
+                                                    <p style="line-height: 150%; color: #535353;">© <?php echo date('Y'); ?> Americanattics.co. All rights
                                                         reserved</p>
                                                 </td>
                                             </tr>
@@ -1152,24 +1152,20 @@
                                                         <tbody>
                                                         <tr>
                                                             <td style="padding-left: 10px;" class="es-p10r" esd-tmp-icon-type="Website" valign="top"
-                                                                align="center"><a target="_blank" href="#"><img
+                                                                align="center"><a target="_blank" href="https://www.americanattics.co/"><img
                                                                             draggable="false" title="Website" src="https://oyfio.s3.me-south-1.amazonaws.com/Website.png"
                                                                             alt="WS" height="24"></a></td>
 
                                                             <td style="padding-left: 10px;" class="es-p10r" esd-tmp-icon-type="facebook" valign="top"
-                                                                align="center"><a target="_blank" href="#"><img
+                                                                align="center"><a target="_blank" href="https://www.facebook.com/profile.php?id=61557721880955"><img
                                                                             draggable="false" title="Website" src="https://oyfio.s3.me-south-1.amazonaws.com/Facebook.png"
                                                                             alt="Fb" height="24"></a></td>
 
-                                                            <td style="padding-left: 10px;" class="es-p10r" esd-tmp-icon-type="twitter" valign="top"
-                                                                align="center"><a target="_blank"
-                                                                                  href="#"><img draggable="false"
-                                                                                                title="Twitter" src="https://oyfio.s3.me-south-1.amazonaws.com/Twitter.png" alt="Tw"
-                                                                                                height="24"></a></td>
+
 
                                                             <td style="padding-left: 10px;" class="es-p10r" esd-tmp-icon-type="instagram" valign="top"
                                                                 align="center"><a target="_blank"
-                                                                                  href="#"><img
+                                                                                  href="https://www.instagram.com/american.attics"><img
                                                                             draggable="false" title="Medium" src="https://oyfio.s3.me-south-1.amazonaws.com/Instagram.png"
                                                                             alt="Inst" height="24"></a></td>
                                                         </tr>
