@@ -17,7 +17,7 @@ class EmailService extends BaseService
             'service' => $request["service"],
             'requirement' => $request["requirement"]
         ];
-        $user=env('MAIL_RECIPIENT','meharmani212@gmail.com');
+        $user=env('MAIL_RECIPIENT','dev.team@techbay.co');
         Mail::to($user)->send(new SendMail($quotationMailData));
         return ('Success! Email has been sent successfully.');
     }
