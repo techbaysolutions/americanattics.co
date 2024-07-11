@@ -1107,9 +1107,9 @@
                                             <tbody>
                                             <tr>
                                                 <td class="esd-block-text es-m-txt-c es-p15t es-p10b" align="center"><a
-                                                            class="esd-anchor" name="mailto:info@americanattics.co"></a>
+                                                            class="esd-anchor" name="mailto:americanattics68@gmail.com"></a>
                                                     <p style="line-height: 150%; color: #535353;">Have any questions? | <span
-                                                                style="color:#1f65b0;">info@americanattics.co</span><br></p>
+                                                                style="color:#1f65b0;">americanattics68@gmail.com</span><br></p>
                                                     <p style="line-height: 150%; color: #535353;">© <?php echo date('Y'); ?> Americanattics.co. All rights
                                                         reserved</p>
                                                 </td>
