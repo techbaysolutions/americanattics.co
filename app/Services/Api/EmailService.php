@@ -11,10 +11,10 @@ class EmailService extends BaseService
     //*** Getting Blogs Start here ***//
     public function emailsendServices($request){
         $quotationMailData = [
-            'email' => $request["email"],
-            'name' => $request["name"],
-            'phone' => $request["phone"],
-            'service' => $request["service"],
+            'email'       => $request["email"],
+            'name'        => $request["name"],
+            'phone'       => $request["phone"],
+            'service'     => $request["service"],
             'requirement' => $request["requirement"]
         ];
         $user=env('MAIL_RECIPIENT','dev.team@techbay.co');
